@@ -19,4 +19,4 @@ elif(operator=="3"):
     print( " hasilnya =" ,celcius,"derajat farenheit")
 else:
     print("tidak ada dalam menu")
-fileObject.close()
+
